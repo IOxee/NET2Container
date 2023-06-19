@@ -11,7 +11,7 @@ This Python script allows you to convert .NET projects to Python, performing the
 Before using this script, make sure you have the following installed:
 
 - Python 3.x: [Download and install Python](https://www.python.org/downloads/)
-- Additional dependencies: `pip install <package_name>`
+- Additional dependencies: `Visual Studio 2017 -> 2022`
 
 ## Usage
 
