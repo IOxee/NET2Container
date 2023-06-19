@@ -31,7 +31,9 @@ Contributions are welcome. If you want to improve this script or add new feature
 
 ## License
 ```
-   Copyright (c) 2023 IOxee
+   MIT License
+
+   Copyright (c) 2023 IO
    
    Permission is hereby granted, free of charge, to any person obtaining a copy
    of this software and associated documentation files (the "Software"), to deal
