@@ -16,7 +16,7 @@ Before using this script, make sure you have the following installed:
 ## Usage
 
 1. Clone the repository or download the project files.
-2. Run the `dotnet2python.py` script in your Python environment.
+2. Run the `dotnet2container.py` script in your Python environment.
 3. Provide the location of the .NET project you want to convert.
 4. The script will automatically perform the following tasks:
    - Change relative paths to absolute paths in the source code.
